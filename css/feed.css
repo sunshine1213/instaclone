@@ -35,7 +35,7 @@
 
 .photo__file{
     max-width: 100%;
-}/*this is for the case that the photo size is too big. If the photo is too small, use "min-width" and set it 100% to make it fit.*/
+}/*this is for the case that the photo size is too big. If the photo is too small, use "min-width" and set it 100% to make it fit. Or write down both.*/
 
 .photo__info{
     padding:20px 20px 0 20px;
