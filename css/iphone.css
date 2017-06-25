@@ -42,8 +42,7 @@
         .footer__list-item{
             margin-bottom: 15px;
         }
-    }
-    /*Because I already has flexbox, it makes these works easy*/
+            /*Because I already has flexbox, it makes these works easy*/
         /* Explore */
         .people{
             width: 100%;
@@ -129,3 +128,4 @@
             display: none;
         }
     }
+    
